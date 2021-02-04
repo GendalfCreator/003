@@ -3,7 +3,7 @@
 *.txt
 
 *.txt.user
-
+config
 *~
 *.autosave
 *.a
