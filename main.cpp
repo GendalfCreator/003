@@ -32,7 +32,7 @@ int main()
     //04. Вывод значения ячейки куба по указателю
     int cube[3][3][3] = {};
     cube[1][1][1] = 143; //Для отладки
-    int *cube_element;
+    int* cube_element;
     cube_element = &cube[1][1][1];
 
     cout << *cube_element << endl;
